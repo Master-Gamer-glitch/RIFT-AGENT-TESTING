@@ -12,4 +12,4 @@ Bug types included:
 Expected behavior:
 - Initial CI should fail
 - AI agent should fix issues
-- Tests should pass after fixes
+- Tests should pass after fixes.
